@@ -14,23 +14,23 @@ let user = {
 let skills = [
     {
         title: "HTML",
-        logo: "/img/html.png"
+        logo: "img/html.png"
     },
     {
         title: "CSS",
-        logo: "/img/css.png"
+        logo: "img/css.png"
     },
     {
         title: "JS",
-        logo: "/img/js.png"
+        logo: "img/js.png"
     },
     {
         title: "C#",
-        logo: "/img/csharp.png"
+        logo: "img/csharp.png"
     },
     {
         title: "MS SQL",
-        logo: "/img/mssql.png"
+        logo: "img/mssql.png"
     }
 ]
 
